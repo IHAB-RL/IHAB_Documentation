@@ -1,1 +1,1 @@
-Documentation and installation procedure of standalone version id IHAB-rl Mobile Software
+Documentation and installation procedure of IHAB-rl Mobile Software
