@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Installation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Requirements}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Installation steps}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Using the application}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{General purpose}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Experimenter Mode}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Operation Modes}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Languages}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Compilation of a questionnaire}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{General outline}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Location of questionnaire files}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Head}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Timer}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.5}{Title}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.6}{Questions}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.6.1}{Single Choice: Radio buttons}{subsection.4.6}% 17
+\BOOKMARK [3][-]{subsubsection.4.6.2}{Multiple Choice: Checkboxes}{subsection.4.6}% 18
+\BOOKMARK [3][-]{subsubsection.4.6.3}{Emojis}{subsection.4.6}% 19
+\BOOKMARK [3][-]{subsubsection.4.6.4}{Text}{subsection.4.6}% 20
+\BOOKMARK [3][-]{subsubsection.4.6.5}{Fixed Slider}{subsection.4.6}% 21
+\BOOKMARK [3][-]{subsubsection.4.6.6}{Free Slider}{subsection.4.6}% 22
+\BOOKMARK [3][-]{subsubsection.4.6.7}{Finish}{subsection.4.6}% 23
+\BOOKMARK [2][-]{subsection.4.7}{Checkbox grouping and exclusivity}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.8}{Default items}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.9}{Comments}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.10}{Logic}{section.4}% 27
+\BOOKMARK [1][-]{section.5}{Resulting file}{}% 28
+\BOOKMARK [1][-]{section.6}{Data transfer}{}% 29
+\BOOKMARK [1][-]{section.7}{License}{}% 30
